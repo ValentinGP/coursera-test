@@ -1,0 +1,22 @@
+
+
+body {
+	font-family: Arial, Times, serif;
+	color: #0000ff;
+	font-style: italic;
+	font-weight: 700;
+	font-size: 120%;
+	text-transform:  uppercase;
+	text-align: justify;
+}
+
+h2 {
+	background: green;
+
+}
+
+.article2:hover {
+	color:black;
+
+
+}
